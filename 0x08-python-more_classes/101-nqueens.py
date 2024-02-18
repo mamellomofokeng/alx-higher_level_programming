@@ -1,4 +1,5 @@
 94% of storage used … If you run out, you can't create, edit, and upload files. Get 100 GB of storage for R 34.99 R 8.99/month for 3 months.
+101-nqueens.py
 #!/usr/bin/python3
 """Solves the N-queens puzzle.
 
